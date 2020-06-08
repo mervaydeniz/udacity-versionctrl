@@ -11,5 +11,4 @@ Place the datasets in this directory.
 
 Open either the terminal in Linux or command prompt in Windowns in this location and type the following command.
 
-python bikeshare.py
-The program will execute
+python bikeshare.py >> The program will execute
